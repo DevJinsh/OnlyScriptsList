@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/UIEvent.cs.meta
+guid: 51ddd8ac11b9c0141aed7ed31b5ebdb4
+========
+guid: 06bb2c9539911484696b07b22d158a54
+>>>>>>>> main:Assets/Scripts/CSVReader.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
